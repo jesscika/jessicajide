@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Orangizatrion Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="view_and_update_your_logo">View and update your logo</string>
+    <string name="organization_details">Organization Details</string>
+    <string name="industry">Industry</string>
+    <string name="organization_location">Organization Location</string>
+    <string name="company_location_city">Company Location (city)</string>
+    <string name="inventory_start_date">Inventory start date</string>
+    <string name="company_address">Company Address</string>
+    <string name="upload_logo">Upload logo</string>
+    <string name="inventory_start_date">Inventory start date</string>
+</resources>
